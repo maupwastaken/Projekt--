@@ -1,4 +1,4 @@
 # Projekt-Σ
 
-Informatics Project Jan S / Colin Q
+Informatics Project Jan S / Colin die drecksau
 
