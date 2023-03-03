@@ -2,5 +2,3 @@
 
 Informatics Project Jan S / Colin Q / Emil B
 
-
-du kleine drecksau
