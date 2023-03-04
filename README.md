@@ -1,4 +1,4 @@
 # Projekt-Σ
 
-Informatics Project Jan S / Colin Q / Emil B
+CS project Jan S/Colin Q/Emil B
 
