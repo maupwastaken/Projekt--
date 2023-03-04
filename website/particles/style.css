@@ -7,4 +7,19 @@ body {
 #particles-js {
   height: 100%;
   background-color: #262626;
+  z-index: -10;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+#whatever {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  color: white;
+  font-size: 50px;
+
+  min-height: 100vh;
 }
